@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pgeocode
+pandas
+pydantic
+requests
+geopy
+python-dotenv
